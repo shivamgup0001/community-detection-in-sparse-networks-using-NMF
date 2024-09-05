@@ -12,6 +12,7 @@ Community detection is a fundamental task in network analysis, aiming to identif
 - Example datasets for testing and experimentation
 
 ## References
+- https://chatgpt.com/share/9cdd17d6-49c5-4cfc-bd6e-774bddcc9872
 - https://github.com/6lyc/CDNMF
 - https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/factorization.md
 - https://github.com/benedekrozemberczki/M-NMF
