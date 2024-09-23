@@ -12,7 +12,7 @@ Community detection is a fundamental task in network analysis, aiming to identif
 - Example datasets for testing and experimentation
 
 ## Tasks
-- Devise an algorithm for estimating the number of communities in the network (Not Assigned)
+- Devise an algorithm for estimating the number of communities in the network (Assigned - Shivam Gupta)
 - Implement CDNMF algorithm for community detection (In Progress - Shivam Agrawal)
 - Evaluate the quality of detected communities using evaluation metrics
     - Synthetic Data
