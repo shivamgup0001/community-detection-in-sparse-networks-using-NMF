@@ -1,0 +1,60 @@
+Community assignment: [2 2 3 ... 5 3 6]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.377785837807552
+--------------------------------------------------
+Community assignment: [2 6 1 ... 3 1 2]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.38868821526116176
+--------------------------------------------------
+Community assignment: [6 3 1 ... 4 0 3]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.3768027062501733
+--------------------------------------------------
+Community assignment: [2 5 3 ... 1 3 6]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.389482594569671
+--------------------------------------------------
+Community assignment: [2 2 0 ... 3 0 4]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.3903233351816028
+--------------------------------------------------
+Community assignment: [5 2 1 ... 3 1 0]
+Original modularity: 0.3625211766867525
+Calculated modularity: 0.391562185315174
+--------------------------------------------------
+Community assignment: [0 6 3 ... 1 3 2]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6918672688950281
+--------------------------------------------------
+Community assignment: [1 1 2 ... 4 2 0]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6703222754920357
+--------------------------------------------------
+Community assignment: [3 4 6 ... 1 6 3]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6931930442287673
+--------------------------------------------------
+Community assignment: [5 4 6 ... 3 6 2]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6654911153547922
+--------------------------------------------------
+Community assignment: [6 4 1 ... 2 4 5]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.685939124572072
+--------------------------------------------------
+Community assignment: [3 1 2 ... 5 2 4]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6947731695561155
+--------------------------------------------------
+Community assignment: [0 0 4 ... 2 3 1]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6730339181631978
+--------------------------------------------------
+Community assignment: [3 6 2 ... 1 6 3]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6868897556527854
+--------------------------------------------------
+Community assignment: [2 2 5 ... 4 1 0]
+Original modularity: 0.640118810574427
+Calculated modularity: 0.6717997705700233
+--------------------------------------------------
