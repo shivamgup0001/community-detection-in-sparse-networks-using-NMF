@@ -16,11 +16,11 @@ Community detection is a fundamental task in network analysis, aiming to identif
 - Implement CDNMF algorithm for community detection (In Progress - Shivam Agrawal)
 - Evaluate the quality of detected communities using evaluation metrics
     - Synthetic Data
-        - Synthetic data generation for testing and evaluation (Not Assigned)
-        - Testing on synthetic datasets (Not Assigned)
+        - Synthetic data generation for testing and evaluation (Assigned - Shivam Gupta)
+        - Testing on synthetic datasets (Assigned - Shivam Gupta)
     - Real-World Data
         - Data collection and preprocessing (Completed - Shivam Agrawal)
-        - Testing on real-world datasets (Assigned - Shivam Agrawal)
+        - Testing on real-world datasets (In Progress - Shivam Agrawal)
 - Analyse the performance of CDNMF by varying edge probabilities and community sizes (Not Assigned)
 - Study the effect of positive and negative eigenvalues on the quality of detected communities (Not Assigned)
 - Identify outlier communities and analyse their impact on the performance of CDNMF (Not Assigned)
