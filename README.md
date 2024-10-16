@@ -37,3 +37,9 @@ Community detection is a fundamental task in network analysis, aiming to identif
 - https://github.com/6lyc/CDNMF
 - https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/factorization.md
 - https://github.com/benedekrozemberczki/M-NMF
+
+## Blockers
+- Estimating the number of communities in the network
+- Initialization of P matrix in CDNMF algorithm
+- Deciding number of iterations and beta value
+- Applying penalty based on feature matrix
