@@ -33,13 +33,15 @@ Community detection is a fundamental task in network analysis, aiming to identif
 - Shivam Gupta
 
 ## References
-- https://chatgpt.com/share/9cdd17d6-49c5-4cfc-bd6e-774bddcc9872
 - https://github.com/6lyc/CDNMF
 - https://github.com/benedekrozemberczki/awesome-community-detection/blob/master/chapters/factorization.md
 - https://github.com/benedekrozemberczki/M-NMF
 
 ## Blockers
-- Estimating the number of communities in the network
-- Initialization of P matrix in CDNMF algorithm
-- Deciding number of iterations and beta value
-- Applying penalty based on feature matrix
+- Estimating the number of communities in the network (Used Bethe Hessian matrix)
+- Initialization of P matrix in CDNMF algorithm (Doesn't look important)
+- Deciding number of iterations and beta value (iteration = 100, beta = 0.5 gives good results)
+- Applying penalty based on feature matrix (Talk to Maths professor)
+
+## Novelties
+- Using Bethe Hessian matrix instead of Non-backtracking matrix for estimating the number of communities
