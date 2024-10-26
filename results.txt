@@ -1,150 +1,45 @@
-Dataset: Datasets/cora/cora.cites
-Community assignment: [3 3 0 ... 4 0 5]
-Original modularity: 0.640118810574427
-Calculated modularity: 0.6403359351147683
-Adjusted Rand Index: 0.2266152414426949
+Estimated number of communities: 44
+Rank of the Laplacian matrix: 3000
+Total eigenvalues: 3000
+Zero eigenvalues: 0
+Negative eigenvalues: 984
+Rank of the Laplacian matrix: 2016
+Total eigenvalues: 3000
+Zero eigenvalues: 984
+Negative eigenvalues: 496
+Rank of the Laplacian matrix: 2016
+Total eigenvalues: 3000
+Zero eigenvalues: 984
+Negative eigenvalues: 494
+Rank of the Laplacian matrix: 2016
+Total eigenvalues: 3000
+Zero eigenvalues: 984
+Negative eigenvalues: 496
+Rank of the Laplacian matrix: 2016
+Total eigenvalues: 3000
+Zero eigenvalues: 984
+Negative eigenvalues: 476
+Objective function value after 1 iterations: 252.73650472642458
+Objective function value after 11 iterations: 104.77563735941719
+Objective function value after 21 iterations: 103.9525079959774
+Objective function value after 31 iterations: 103.83895200996457
+Objective function value after 41 iterations: 103.80647060146892
+Objective function value after 51 iterations: 103.80158355302437
+Objective function value after 61 iterations: 103.79909477542824
+Objective function value after 71 iterations: 103.79448015079527
+Objective function value after 81 iterations: 103.7917867016861
+Objective function value after 91 iterations: 103.79068659282032
+Original modularity: 0.7714773773536857
+Calculated modularity: 0.6603647473967483
+Adjusted Rand Index: 0.425304426271325
+Normalized Mutual Information: 0.6386379160947779
+Accuracy: 0.5786666666666667
 --------------------------------------------------
 Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 1 5 ... 5 1 1]
+Community assignment: [1 5 1 ... 4 3 1]
 Original modularity: 0.5443784946706643
-Calculated modularity: 0.6905969404776869
-Adjusted Rand Index: 0.0574146876324093
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [2 4 2 ... 2 4 2]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6859222249726972
-Adjusted Rand Index: 0.04565860133338072
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [5 2 5 ... 5 3 2]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6934912153319367
-Adjusted Rand Index: 0.0592889238303415
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 3 0 ... 0 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6941530897062633
-Adjusted Rand Index: 0.08130495925529953
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [5 1 5 ... 1 1 5]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6254039944236071
-Adjusted Rand Index: 0.06391158495982588
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [5 1 0 ... 5 0 5]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6959555817945194
-Adjusted Rand Index: 0.05156350904763284
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 2 2 ... 2 2 2]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6305120963919238
-Adjusted Rand Index: 0.05707224405905682
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [0 0 1 ... 5 5 5]
-Original modularity: 0.5443784946706643
-Calculated modularity: -0.1509498987968378
-Adjusted Rand Index: 0.00040789456984031215
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [0 4 0 ... 0 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6760552713286591
-Adjusted Rand Index: 0.04847752412890205
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 5 5 ... 0 5 5]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6599808852997784
-Adjusted Rand Index: 0.0785382732523612
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [1 4 3 ... 4 5 3]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.06210460908778006
-Adjusted Rand Index: 0.002020865776091271
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [1 5 1 ... 5 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6819445431092577
-Adjusted Rand Index: 0.08350183733449605
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [8 9 6 ... 0 8 8]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.7555357271473515
-Adjusted Rand Index: 0.05678495044138226
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [3 3 3 ... 3 4 3]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.44081032126949504
-Adjusted Rand Index: 0.011627576750046258
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [3 1 4 ... 4 1 4]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6704820543805683
-Adjusted Rand Index: 0.07526167358567555
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [2 0 0 ... 2 2 2]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6419329429201044
-Adjusted Rand Index: 0.062400093502662554
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [2 5 2 ... 5 5 5]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6271843404316236
-Adjusted Rand Index: 0.06516842752255611
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 5 5 ... 4 4 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6412914874197214
-Adjusted Rand Index: 0.06834227086747982
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [5 1 5 ... 5 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.6455656333533909
-Adjusted Rand Index: 0.052734675381208775
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [0 0 0 ... 0 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: -7.577034415171917e-15
-Adjusted Rand Index: 0.0
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [4 4 4 ... 1 0 4]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.5185796139189683
-Adjusted Rand Index: 0.020207648809215085
---------------------------------------------------
-Dataset: Datasets/cora/cora.cites
-Community assignment: [27  1  0 ...  6  9 32]
-Original modularity: 0.640118810574427
-Calculated modularity: 0.6008804375897153
-Adjusted Rand Index: 0.1397649611913571
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [28 10  2 ...  4 16 16]
-Original modularity: 0.5443784946706643
-Calculated modularity: 0.7767810806637503
-Adjusted Rand Index: 0.04590976721539454
---------------------------------------------------
-Dataset: Datasets/citeseer-doc-classification/citeseer.cites
-Community assignment: [0 0 0 ... 0 0 0]
-Original modularity: 0.5443784946706643
-Calculated modularity: -7.577034415171917e-15
-Adjusted Rand Index: 0.0
+Calculated modularity: 0.36809854475878695
+Adjusted Rand Index: 0.02066644019000392
+Normalized Mutual Information: 0.030734374333110135
+Accuracy: 0.2418478260869565
 --------------------------------------------------
