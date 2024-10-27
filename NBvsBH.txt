@@ -1,0 +1,6 @@
+Comparison of NB and BH methods on LFR benchmark graphs
+Number of nodes: [1000, 1500, 2000, 2500, 3000]
+Actual number of communities: [27, 30, 27, 30, 30]
+Estimated number of communities (NB): [27, 30, 27, 32, 32]
+Estimated number of communities (BH): [27, 30, 27, 30, 30]
+--------------------------------------------------
