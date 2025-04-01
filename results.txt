@@ -131,3 +131,27 @@ Dataset: ['Datasets/webkb/cornell.cites', 'Datasets/webkb/texas.cites', 'Dataset
 Number of communities: 11
 Calculated modularity: 0.6174740657748229
 --------------------------------------------------
+Dataset: ['Datasets/cora/cora.cites']
+Number of communities: 61
+Calculated modularity: 0.7141701251266784
+--------------------------------------------------
+Dataset: ['Datasets/citeseer-doc-classification/citeseer.cites']
+Number of communities: 64
+Calculated modularity: 0.7154741563083092
+--------------------------------------------------
+Dataset: ['Datasets/webkb/cornell.cites', 'Datasets/webkb/texas.cites', 'Datasets/webkb/washington.cites', 'Datasets/webkb/wisconsin.cites']
+Number of communities: 11
+Calculated modularity: 0.7285251191917544
+--------------------------------------------------
+Dataset: ['Datasets/cora/cora.cites']
+Number of communities: 61
+Calculated modularity: 0.7179173676791345
+--------------------------------------------------
+Dataset: ['Datasets/citeseer-doc-classification/citeseer.cites']
+Number of communities: 64
+Calculated modularity: 0.7119207516772955
+--------------------------------------------------
+Dataset: ['Datasets/webkb/cornell.cites', 'Datasets/webkb/texas.cites', 'Datasets/webkb/washington.cites', 'Datasets/webkb/wisconsin.cites']
+Number of communities: 11
+Calculated modularity: 0.7369035322680202
+--------------------------------------------------
